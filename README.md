@@ -16,7 +16,7 @@ Well right now theres nothing, We are plannning to gradually release these featu
 
 2. **How often will you update?**
 
-So I am a secondary school student, so my time isnt that flexible, but I plan to woek on this project everyday when I get back from school and on weekends, and on holidays too! 
+So I am a secondary school student, so my time isnt that flexible, but I plan to work on this project everyday when I get back from school and on weekends, and on holidays too! 
 
 3. **Will this be a reskin of some random Linux distro?**
 
