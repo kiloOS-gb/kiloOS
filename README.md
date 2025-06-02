@@ -20,5 +20,8 @@ So I am a secondary school student, so my time isnt that flexible, but I plan to
 
 3. **Will this be a reskin of some random Linux distro?**
 
-As of right now, **absolutely not**. I am planning to do my own desktop interface which will be hard, hence why its expected in Summer 2025. I am not **one of them** people who reskin a linux destro and glaze it. **you know who you are.**
+As of right now, **absolutely not**. I am planning to do my own desktop interface which will be hard, hence why its expected in Summer 2025. I am not **one of them** people who reskin a linux distro and glaze it on their TikTok page. **you know who you are.**
 
+# **Where can I find updates about this project?**
+
+@kiloos.official on both TikTok and X. It may expand to more social media platforms soon but I doubt it.
